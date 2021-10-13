@@ -1,0 +1,13 @@
+/* Selector Combination */
+.class1{
+    color: blue;
+}
+.class2{
+    background-color: lightblue;
+}
+.class1.class2{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.5em;
+    padding: 4px;
+}
